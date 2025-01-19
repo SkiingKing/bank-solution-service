@@ -9,6 +9,7 @@ Tech Stack:
 1. Build the project using the following command:
 
 `./`gradlew clean build
+
 2. Run the project
 
 3. Access the API documentation using Swagger UI:
